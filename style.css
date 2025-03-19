@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+    background-color: rgb(204, 136, 148);
+}
+
+div{
+    width: 60%;
+    float: left;
+    margin-left: 30%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    margin-left: 15%;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 100px;
+    color: midnightblue;
+}
+
+p{
+    margin-left: 15%;
+    margin-top: 0;
+    margin-bottom: 20px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+a{
+    margin-left: 15%;
+    display: inline-block;
+    padding: 10px 10px 10px 10px;
+    color: midnightblue;
+    text-decoration: none;
+    border: 3px solid rebeccapurple;
+    border-radius: 35px;
+    cursor: wait;
+    display: table;
+}
+
